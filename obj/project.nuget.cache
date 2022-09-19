@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "euX2mD6i3ApEgRJDx07lU1d0QnMx0tL8It2L/wwTMXIcBhI4OYZRxolzFgGvMj+JnQfjB/i0zg53l32M47WzoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matia\\source\\repos\\TelegramBot\\TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matia\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\matia\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\matia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\TelegramBot\TelegramBot.exe
+C:\Users\matia\Desktop\TelegramBot\TelegramBot.dll
+C:\Users\matia\Desktop\TelegramBot\TelegramBot.deps.json
+C:\Users\matia\Desktop\TelegramBot\TelegramBot.runtimeconfig.json
+C:\Users\matia\Desktop\TelegramBot\TelegramBot.pdb
+C:\Users\matia\Desktop\TelegramBot\Newtonsoft.Json.dll
+C:\Users\matia\Desktop\TelegramBot\Telegram.Bot.dll
